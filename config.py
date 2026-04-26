@@ -1,0 +1,29 @@
+# Camera
+CAMERA_WIDTH  = 800   
+CAMERA_HEIGHT = 320
+CAMERA_ID     = 0
+CAMERA_FPS    = 60
+
+UDP_IP        = "127.0.0.1"
+UDP_PORT      = 5052
+UDP_SEND_RATE = 120  
+
+# Mediapipe
+
+MP_MODEL_COMPLEXITY      = 1
+MP_DETECTION_CONFIDENCE  = 0.6  
+MP_TRACKING_CONFIDENCE   = 0.5 
+  
+
+
+OE_MIN_CUTOFF = 1.0 # idle hand
+OE_BETA       = 0.15 #update hand speed
+OE_D_CUTOFF   = 1.0 #suf
+
+
+PINCH_ENTER_THRESHOLD = 0.30
+PINCH_EXIT_THRESHOLD  = 0.45
+DEBOUNCE_FRAMES       = 1   
+
+
+SHOW_DEBUG_WINDOW = False

@@ -1,7 +1,7 @@
 [![Google Drive](https://img.shields.io/badge/Video%20Demo-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1RWLBkc82JlwF0ULHlVz6jSsTjlWlXnMt/view?usp=drive_link)
 [![Git Game](https://img.shields.io/badge/Link%20GitGame-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vuquocdung04/Dreamy-Room)
 
-![Pic1](0_Pic1.png)
+![Pic1](0_pic1.png)
 ![Pic2](0_Pic2.png)
 ![Pic3](0_Pic3.png)
 
